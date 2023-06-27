@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LFRoza
 - 👀 I’m interested in IT.
-- 🌱 I’m currently learning Phyton.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me in https://www.linkedin.com/in/lfr95/ or in +55(41)98712-7497.
 
 <!---
